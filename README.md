@@ -1117,21 +1117,3 @@ Key areas of learning included:
 
 ---
 
-## Project Status
-
-This repository represents a completed learning and portfolio implementation.
-
-The analysis is intended to demonstrate product analytics, experimentation, forecasting, automation, and monitoring techniques. Additional security, testing, infrastructure, and data-governance work would be required before adapting the system for sensitive production environments.
-
----
-
-## Acknowledgements
-
-PulseScope Analytics is based on the open-source [Building Startup Analytics](https://github.com/PavelGrigoryevDS/building-startup-analytics) project by Pavel Grigoryev.
-
-The original project provided the underlying case study, data environment, implementation structure, notebooks, analyses, dashboards, and automation workflows used in this repository.
-
-This repository retains the original MIT License and required copyright notices. Any modifications remain subject to the terms of that license.
-
----
-
